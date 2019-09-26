@@ -1,0 +1,26 @@
+{
+  "name": "node_geogame",
+  "version": "1.0.0",
+  "description": "Node.JS Help function for GeoGame",
+  "main": "import-csv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thro42/node_geogame.git"
+  },
+  "keywords": [
+    "geogame"
+  ],
+  "author": "R.Thomitzek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thro42/node_geogame/issues"
+  },
+  "homepage": "https://github.com/Thro42/node_geogame#readme",
+  "dependencies": {
+    "firebase": "^6.6.2",
+    "firebase-admin": "^8.6.0"
+  }
+}

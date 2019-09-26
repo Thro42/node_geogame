@@ -1,0 +1,14 @@
+﻿id;header;coord_lat;coord_long;is_final;found;visible;code;found_by;schow_for;description
+11;First Blue;7.549665;52.169150;false;false;true;blue;none;blue;Watching for a blue sign and inspect it
+12;Dont drink and drive;7.55164;52.17016;false;false;false;water;none;none;There is water here but you should not drink it
+13;Tree feet;7.551837;52.170155;false;false;false;feets;none;none;This tree stands on feet and between the feet lies a treasure
+14;The break;7.55315423011779;52.1689901117433;false;false;false;break;none;none;Here you could take a break. But if you sit down you never find the hiding place.
+15;Remains of a tree;7.555427;52.168230;false;false;false;felled;none;none;Here was a tree, but it was felled. But you can find something important about his leftovers
+16;Tree hole;7.550030797719955;52.16954738304446;false;false;false;holes;none;none;Sometimes there are holes where you do not expect. Here you will find the treasure in the hole
+21;The corner;7.549243904650212;52.168691937885555;false;false;true;red;none;red;Here the road makes a bend and because it is not quite square remains a green spot. But the treasure is already behind the wood.
+22;dead end;7.550601437687875;52.16855559979381;false;false;false;deadend;none;none;"For us it is of course not when it says ""no turning opportunity"". But you should take a closer look."
+23;the lilies;7.548624314367771;52.16814905069612;false;false;false;lilies;none;none;A Darmstadt football club here ?. You should take a close look at that.
+24;THE BVB UNITY ;7.549653276801109;52.167864032269996;false;false;false;unity;none;none;I hope you're not such an Ultra Fan. Even if this is not so great to recognize. It rightly hides another club. The treasure is deeper but very close.
+25;hazelnuts;7.55344457924366;52.16720001039923;false;false;false;nuts;none;none;At Christmas, many of us eat hazelnuts. But they are already mature. Here hides in the middle but our treasure.
+26;Dead wood;7.555052228271961;52.167901253394675;false;false;false;wood;none;none;Here was a tree, but it was felled. But you can find something important about his leftovers
+99;The treasure;7.556425;52.168807;true;false;false;theend;none;none;Here is the treasure
