@@ -18,5 +18,6 @@ open a console. Go to the directory of the script and enter
 `npm install`
 
 ##using
+
  `node import-csv.js <json_file_name>`
  
