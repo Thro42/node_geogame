@@ -21,6 +21,6 @@
   "homepage": "https://github.com/Thro42/node_geogame#readme",
   "dependencies": {
     "firebase": "^6.6.2",
-    "firebase-admin": "^8.6.0"
+    "firebase-admin": "^11.4.1"
   }
 }
